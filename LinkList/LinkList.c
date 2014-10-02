@@ -1,3 +1,11 @@
+/*=============================================================================
+|		 Title:  Linked List C++ Implementation
+|       Author:  Anýl Altunkan
+|		E-Mail:	 altunkan@gmail.com
+|		   Web:  http://anilaltunkan.com
+|  Description:  Simple Linked List Console Application
+*=============================================================================*/
+
 #ifdef _MSC_VER
 #define _CRT_SECURE_NO_WARNINGS
 #endif
