@@ -1,5 +1,5 @@
 /*=============================================================================
-|		 Title:  Linked List C++ Implementation
+|		 Title:  Linked List C Implementation
 |       Author:  Anýl Altunkan
 |		E-Mail:	 altunkan@gmail.com
 |		   Web:  http://anilaltunkan.com
